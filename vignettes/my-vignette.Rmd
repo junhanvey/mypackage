@@ -35,6 +35,8 @@ library(mypackage)
 add(100, 50) # Adds the two numbers and gives the output
 subtract(100, 50) # Subtracts the second number from the first 
 hello() # Gives the message "hello world"
+multiply(100, 50) # Multiplies two numbers and gives the product
+divide(100, 50) # Divides the first number by the second and gives the quotient
 
 # The following is an example for ggraph:
 p <- ggraph(x = cranes$year, y = cranes$cranes) # Gives a simple scatter plot

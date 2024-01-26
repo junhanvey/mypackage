@@ -6,3 +6,12 @@
 #' @format A data frame with 2 variables: \code{cranes} and \code{year}.
 #'
 "cranes"
+
+#' Brainbody Data Set
+#'
+#' This data set contains information on different animal's physical attributes and their brain sizes.
+#' 
+#'
+#' @format A data frame with 5 variables: \code{species}, \code{brain}, \code{body}, \code{gestation}, \code{litter}.
+#'
+"brainbody"
